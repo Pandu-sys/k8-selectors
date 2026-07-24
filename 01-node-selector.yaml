@@ -11,5 +11,5 @@ spec:
   - name: nginx # container
     image: nginx #by default it'll get gtom docker hub
   nodeSelector:
-    project: roboshop
+    project: roboshoop
     
